@@ -98,7 +98,6 @@ python3 cliente.py --host test.appscristianrojo.cl --puerto 9000
 Disponible en **https://web.appscristianrojo.cl**
 
 - Ver archivos en `entrada/` y `procesados/`
-- Subir archivos con drag & drop (máx. 50 MB)
 - Descargar y eliminar archivos de `procesados/`
 - Ver el registro de operaciones con colores en tiempo real
 
