@@ -1,0 +1,18 @@
+Archivo de prueba #3
+====================
+Tercer archivo de prueba: configuración de ejemplo.
+
+[servidor]
+host = 0.0.0.0
+puerto = 9000
+max_clientes = 10
+timeout = 30
+
+[rutas]
+entrada    = ~/servidor_archivos/entrada
+procesados = ~/servidor_archivos/procesados
+logs       = ~/servidor_archivos/logs
+
+[opciones]
+debug = false
+log_nivel = INFO
